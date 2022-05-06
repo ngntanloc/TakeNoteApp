@@ -14,5 +14,8 @@
 * ROOM Database
 * Dagger & Hilt
 
+### Image
+![](https://github.com/ngntanloc/TakeNoteApp/blob/main/Screenshot_20220506-172326.png)
+![](https://github.com/ngntanloc/TakeNoteApp/blob/main/Screenshot_20220506-172333.png)
 
 #### © 2022 TanLoc | fb.me/ngntanlocc
