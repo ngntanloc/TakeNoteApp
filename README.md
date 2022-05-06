@@ -15,12 +15,6 @@
 * Dagger & Hilt
 
 ### Image
-
-<ul>
-   <li><img src="https://github.com/ngntanloc/TakeNoteApp/blob/main/Screenshot_20220506-172326.png" /></li>
-   <li><img src="https://github.com/ngntanloc/TakeNoteApp/blob/main/Screenshot_20220506-172333.png" /></li>  
-</ul>
-
 ![](https://github.com/ngntanloc/TakeNoteApp/blob/main/Screenshot_20220506-172326.png)
 ![](https://github.com/ngntanloc/TakeNoteApp/blob/main/Screenshot_20220506-172333.png)
 
