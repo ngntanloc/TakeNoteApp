@@ -13,6 +13,7 @@
 * MVVM Architecture
 * ROOM Database
 * Dagger & Hilt
+* Coroutines
 
 ### Image
 ![](https://github.com/ngntanloc/TakeNoteApp/blob/main/Screenshot_20220506-172326.png)
